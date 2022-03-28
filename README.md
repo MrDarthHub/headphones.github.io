@@ -3,7 +3,6 @@
 
 *** Web under construction *** <br>
 *** Web en construccion *** <br>
-Live demo: <br>
-- link: https://mrdarthhub.github.io/headphones.github.io/
+Live demo: https://mrdarthhub.github.io/headphones.github.io/
 
 
